@@ -1,8 +1,8 @@
 <h3 align="center">I know some computer things</h3>
 <img align="right" alt="Code Image" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-- 🔭 I’m currently working on **Back-End WebApp fixes**
+- 🔭 I’m currently working on **CyberSecurity**
 
-- 🌱 I’m currently learning **Qwik**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [{{Site Under Re-Construction}}]
 
